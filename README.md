@@ -2,6 +2,8 @@
 
 EX Phone API is powerful tool to send sms from your phone connection using API.
 
+NOW SUPPORTED DUAL SIM CARDS
+
 EX Phone API required Send SMS permission to Send SMS from your sim card on all (API)http requests. If the app does not have Send SMS permission, then it will not work properly.
 
 API Example:
